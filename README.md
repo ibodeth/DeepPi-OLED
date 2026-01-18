@@ -59,7 +59,7 @@ cd DeepPi-OLED
 chmod +x install.sh
 
 # 4. Run the installer
-./install.sh
+sudo ./install.sh
 ```
 
 The script will automatically update the system, enable I2C, install Ollama, pull the DeepSeek-R1 model, and set up the Python environment.
