@@ -116,5 +116,3 @@ This project is licensed under the **MIT License** — see the `LICENSE` file fo
 ## ✨ Credits
 
 Created by **İbrahim Nuryağınlı**
-
-Inspired by edge AI, local reasoning models, and cyber-style interfaces on Raspberry Pi.
