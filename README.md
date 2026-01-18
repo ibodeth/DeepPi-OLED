@@ -46,6 +46,9 @@
 Open your Raspberry Pi terminal and run the following commands:
 
 ```bash
+# 0. Install git
+sudo apt install -y git
+
 # 1. Clone the repository
 git clone https://github.com/ibodeth/DeepPi-OLED.git
 
